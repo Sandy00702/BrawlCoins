@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Discord.gg/Brawlcoins","Selling Cheap MMC"];
+const statusMessages = ["Discord.gg/Brawlcoins"];
 
 
 let currentIndex = 0;
